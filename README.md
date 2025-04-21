@@ -1,4 +1,4 @@
-## Hi there 👋
+I am a consultant specializing in SQL engineering and data visualization, currently working towards a transition into data engineering. I am using a personal GitHub for some general Python/engineering practice.
 
 <!--
 **wyattdewitt/wyattdewitt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
